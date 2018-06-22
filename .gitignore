@@ -1,0 +1,12 @@
+.DS_Store
+*.bbl
+*.blg
+*.f*
+*.out
+*.toc
+*.log
+*.aux
+*.synctex.gz
+*.dvi
+*.pdf
+auto/
